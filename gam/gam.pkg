@@ -1,4 +1,7 @@
-D 'DEA': Data envelopment analysis
+D 'gam': Generalized additive models (modelling) Use gam With STATA 19
 D
-F dea.ado
-F dea.sthlp
+F gam.ado
+F gam.exe
+F gam.sthlp
+F gamplot.ado
+F gamplot.sthlp
